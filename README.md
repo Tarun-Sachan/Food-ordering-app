@@ -2,11 +2,11 @@
 
 Food delivery fullstack web application.
 Features
-•App fetches data from Firebase realtime database to gather data for food item.
-•App wise state handling for cart items using useContext.
-•User side form validation for data entered by user during checkout.
-•User has option to add items to cart and submit his order after filling all the necessary details.
-•Order details will also be stored in Firebase realtime database.
+1.App fetches data from Firebase realtime database to gather data for food item.
+2.App wise state handling for cart items using useContext.
+3.User side form validation for data entered by user during checkout.
+4.User has option to add items to cart and submit his order after filling all the necessary details.
+5.Order details will also be stored in Firebase realtime database.
 
 ## [Live Demo](https://food-ordering-app-six-red.vercel.app/)
 
