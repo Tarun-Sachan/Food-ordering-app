@@ -4,8 +4,11 @@
 
 ## [Live Demo](https://food-ordering-app-six-red.vercel.app/)
 
+![Screenshot 2023-08-01 at 10-33-23 React App](https://github.com/Tarun-Sachan/movies-app-firebase/assets/117214735/17b68bd7-4e0b-4b9a-b8e5-58173e13f15c)
 
-![Screenshot 2023-02-28 at 23-32-47 React App](https://user-images.githubusercontent.com/117214735/221940631-50b20d8e-1903-4982-a49b-05b8c6cdb0ad.png)
+![Screenshot 2023-08-01 at 10-33-45 React App](https://github.com/Tarun-Sachan/movies-app-firebase/assets/117214735/50240c53-6681-43b5-9ab5-6bc489cb2631)
+
+![Screenshot 2023-08-01 at 10-35-06 React App](https://github.com/Tarun-Sachan/movies-app-firebase/assets/117214735/037eea26-25cd-46f9-904f-ee7522312f61)
 
 
 ## Technologies Used
